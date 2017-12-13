@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ApkAutoBackup</string>
+    <string name="app_full_name">Apk Auto Backup</string>
+    <string name="kv_app_name">AppName</string>
+    <string name="kv_pkg_name">PkgName</string>
+</resources>
